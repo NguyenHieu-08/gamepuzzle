@@ -1,0 +1,9 @@
+.puzzles {
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    width: 40%;
+    height: 100px;
+}
